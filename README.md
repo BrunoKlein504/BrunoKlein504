@@ -1,34 +1,34 @@
 ### Olá!  eu me chamo Bruno Klein 💻😆
-
-
  
- 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoKlein504&show_icons=true&theme=dark)  
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKlein504&layout=compact)
-  
-  ## Tecnologias que estou aprendendo!!!
-  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" />
-    <img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" />
-    <img align="center" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="100" />
-    <img align="center" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="100" />
-    <img align="center" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="100" />
-    <img align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" />
-    <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="100" />
-    <img align="center" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="100" />
+<div align="center">
+<a href="https://github.com/BrunoKlein504">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoKlein504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoKlein504&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<hr>
+### 👨‍💻 Sobre Mim:
+ - 🎓 Cursando Engenharia da Computação, com grande entusiasmo pela área de tecnologia.
+ - 🚀 Focado em Ciência de Dados, com especial interesse em Machine Learning e Processamento de Linguagem Natural (PLN).
+ - 💡 Buscando ativamente por oportunidades para aplicar e aprofundar meus conhecimentos em projetos de dados, contribuindo para a geração de insights e soluções inteligentes.
 
+### 🧠 Principais Ferramentas e Tecnologias:
 
-#### Estudante na Área de T.I, cursando Engenharia da Computação e entusiasta por programação. Estou focando em desenvolvimento Back-end em java e estou aberto por oportunidades para que eu possa exercer meus conhecimentos.
+#### Linguagens e Banco de Dados:
 
-<br>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px;">
+<img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+<img align="center" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" />
+<img align="center" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" />
+<img align="center" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" />
+</div>
 
-## Meus Projetos Principais:
+#### Data Science e Machine Learning:
 
-[workshop-springboot3-jpa](https://github.com/BrunoKlein504/workshop-springboot3-jpa.git)<br/>
-[workshop-spring-boot-mongodb](https://github.com/BrunoKlein504/workshop-spring-boot-mongodb.git)<br/>
-[chess-system](https://github.com/BrunoKlein504/chess-system-java.git)
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 15px;">
+<img align="center" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
+<img align="center" alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
+<img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2048px-Scikit_learn_logo_small.svg.png" height="50" />
+<img align="center" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" />
+<img align="center" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" />
+<img align="center" alt="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" />
+</div>
